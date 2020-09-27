@@ -46,6 +46,7 @@ exclude:
   - .jekyll-cache/
   - .git/
   - .gitignore
+  - .github/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
